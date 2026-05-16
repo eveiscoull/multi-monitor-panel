@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> # Repository has been archived
+> There are two reasons:
+> 1. I no longer use GNOME as my primary desktop environment, having now moved to COSMIC. As such, I don't really have motivation to work on this.
+> 2. The repository that this is forked from has since come back with an update which resolved issues this was aiming to fix, so you're better just going there.
+>
+> Thanks folks!
+
+---
+
 # Multi-monitor panel
 ![A screenshot showing 2 monitors, both with a top panel](img/Screenshot.jpg)
 ## About
